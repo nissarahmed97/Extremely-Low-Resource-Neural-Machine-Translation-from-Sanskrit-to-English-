@@ -1,0 +1,26 @@
+{
+  "name": "Neural-Machine-Translation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "translator.js",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "got": "^10.4.0",
+    "jsdom": "^16.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nissarahmed97/Extremely-Low-Resource-Neural-Machine-Translation-from-Sanskrit-to-English-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nissarahmed97/Extremely-Low-Resource-Neural-Machine-Translation-from-Sanskrit-to-English-/issues"
+  },
+  "homepage": "https://github.com/nissarahmed97/Extremely-Low-Resource-Neural-Machine-Translation-from-Sanskrit-to-English-#readme"
+}
